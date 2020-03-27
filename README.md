@@ -15,4 +15,4 @@ This single-page to-do application features a fluid user interface that– by us
 ### Home Page:
 ![](./app/assets/images/todo.png)
 
-https://grammable-joe-holley.herokuapp.com/
+https://todoster-joe-holley.herokuapp.com/
