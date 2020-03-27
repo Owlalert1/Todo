@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# [Todo](https://todoster-joe-holley.herokuapp.com/)
 
-Things you may want to cover:
+This single-page to-do application features a fluid user interface that– by using JavaScript– allows users to rapidly add dynamic content.
 
-* Ruby version
+#### Built using:
+-  Ruby v2.5.3
+-  HTML5
+-  CSS
+-  Javascript
+-  JQuery
 
-* System dependencies
 
-* Configuration
+### Home Page:
+![](./app/assets/images/todo.png)
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://grammable-joe-holley.herokuapp.com/
